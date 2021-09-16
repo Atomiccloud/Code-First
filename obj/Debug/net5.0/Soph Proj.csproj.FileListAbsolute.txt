@@ -1,0 +1,37 @@
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.csproj.AssemblyReference.cache
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.AssemblyInfoInputs.cache
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.AssemblyInfo.cs
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.csproj.CoreCompileInputs.cache
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\Soph Proj.exe
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\Soph Proj.deps.json
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\Soph Proj.runtimeconfig.json
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\Soph Proj.runtimeconfig.dev.json
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\Soph Proj.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\ref\Soph Proj.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\Soph Proj.pdb
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atomi\Documents\Soph Proj\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.csproj.CopyComplete
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.dll
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\ref\Soph Proj.dll
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.pdb
+C:\Users\atomi\Documents\Soph Proj\obj\Debug\net5.0\Soph Proj.genruntimeconfig.cache
